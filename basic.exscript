@@ -24,6 +24,6 @@ quickstart(hosts, do_something, max_threads = 3)
 #5.When do_something() completes, it closes the connection.
 
 
-#max_threads = 2 does the following:
-#This tells Exscript to open two network connections in parallel.
+#max_threads = 3 does the following:
+#This tells Exscript to open three network connections in parallel.
 
